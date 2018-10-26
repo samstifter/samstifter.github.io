@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sam Stifter</title>
-    <link>http://samstifter.com/projects/</link>
+    <link>https://samstifter.com/projects/</link>
     <description>Recent content in Projects on Sam Stifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 06 Apr 2017 10:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://samstifter.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samstifter.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Punch Clock</title>
-      <link>http://samstifter.com/projects/punch-clock/</link>
+      <link>https://samstifter.com/projects/punch-clock/</link>
       <pubDate>Thu, 06 Apr 2017 10:00:00 -0500</pubDate>
       
-      <guid>http://samstifter.com/projects/punch-clock/</guid>
+      <guid>https://samstifter.com/projects/punch-clock/</guid>
       <description>Project Repository
 Overview Our project was an application designed for users who want a way to more easily keep track of how much time they work on their computer. The program is a timer that can either be manually turned on and off or it can be set up to automatically detect when a selected program is opened and keep track of time until it is closed.
 Tools Used Software needed to make this work:</description>

@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://samstifter.com/projects/punch-clock/</loc>
+    <loc>https://samstifter.com/projects/punch-clock/</loc>
     <lastmod>2017-04-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://samstifter.com/about-me/</loc>
+    <loc>https://samstifter.com/about-me/</loc>
   </url>
   
   <url>
-    <loc>http://samstifter.com/categories/</loc>
+    <loc>https://samstifter.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://samstifter.com/contact-me/</loc>
+    <loc>https://samstifter.com/contact-me/</loc>
   </url>
   
   <url>
-    <loc>http://samstifter.com/course-list/</loc>
+    <loc>https://samstifter.com/course-list/</loc>
   </url>
   
   <url>
-    <loc>http://samstifter.com/projects/</loc>
-    <lastmod>2017-04-06T10:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://samstifter.com/</loc>
+    <loc>https://samstifter.com/projects/</loc>
     <lastmod>2017-04-06T10:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://samstifter.com/tags/</loc>
+    <loc>https://samstifter.com/</loc>
+    <lastmod>2017-04-06T10:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/tags/</loc>
     <priority>0</priority>
   </url>
   
