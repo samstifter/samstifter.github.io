@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Stifter</title>
+    <link>http://samstifter.com/</link>
+    <description>Recent content on Sam Stifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Apr 2017 10:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://samstifter.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Punch Clock</title>
+      <link>http://samstifter.com/projects/punch-clock/</link>
+      <pubDate>Thu, 06 Apr 2017 10:00:00 -0500</pubDate>
+      
+      <guid>http://samstifter.com/projects/punch-clock/</guid>
+      <description>Project Repository
+Overview Our project was an application designed for users who want a way to more easily keep track of how much time they work on their computer. The program is a timer that can either be manually turned on and off or it can be set up to automatically detect when a selected program is opened and keep track of time until it is closed.
+Tools Used Software needed to make this work:</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://samstifter.com/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://samstifter.com/about-me/</guid>
+      <description>Hi! I am a Software Engineering student at Iowa State University. I am in my third year and expect to graduate in May 2020. I am currently a Teaching Assistant in the Electrical and Computer Engineering Department for CPR E 288 Embedded Systems: Introduction.
+A selection of courses I have taken include: data structures, digital logic, software construction, user interfaces, databases, and computer organization. A full list with course codes can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://samstifter.com/contact-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://samstifter.com/contact-me/</guid>
+      <description>To get in touch with me, fill out the form below and I will follow up with you by email. You can also visit the social links on my homepage.
+Loading... </description>
+    </item>
+    
+    <item>
+      <title>ISU Course List</title>
+      <link>http://samstifter.com/course-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://samstifter.com/course-list/</guid>
+      <description>I am currently enrolled in the courses listed in italics.
+ COM S 228: Data structures COM S 309: Software Development Practices COM S 319: Software Construction and User interfaces COM S 363: Introduction to Database Management Systems CPR E 281: Digital Logic CPR E 288: Embedded Systems I: Introduction CPR E 310: Theoretical Foundations of Computer Engineering CPR E 381: Computer Organization and Assembly Level Programming  </description>
+    </item>
+    
+  </channel>
+</rss>
