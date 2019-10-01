@@ -5,6 +5,8 @@ theme = "hugo-coder"
 paginate = 20
 canonifyurls = true
 
+disablePathToLower = true
+
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -41,6 +43,14 @@ pygmentscodefencesguesssyntax = true
 	weight = 2
 	url = "/projects/"
 [[menu.main]]
+	name = "Work Experience"
+	weight = 3
+	url = "/work-experience/"
+[[menu.main]]
+	name = "Resume"
+	weight = 4
+	url = "/resume"
+[[menu.main]]
   name = "Contact Me"
-  weight = 3
+  weight = 9
   url = "/contact-me/"
