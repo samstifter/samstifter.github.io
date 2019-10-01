@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://samstifter.com/</loc>
+    <lastmod>2019-10-01T10:02:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/work-experience/</loc>
+    <lastmod>2019-10-01T10:02:56-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://samstifter.com/projects/</loc>
     <lastmod>2017-04-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://samstifter.com/projects/punch-clock/</loc>
-    <lastmod>2017-04-06T10:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samstifter.com/</loc>
     <lastmod>2017-04-06T10:00:00-05:00</lastmod>
   </url>
   
@@ -31,6 +36,10 @@
   
   <url>
     <loc>https://samstifter.com/course-list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/resume/</loc>
   </url>
   
   <url>
