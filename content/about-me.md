@@ -3,7 +3,7 @@ title: "About Me"
 slug: "about-me"
 ---
 
-Hi! I am a Software Engineering student at Iowa State University. I am in my third year and expect to graduate in May 2020. I am currently a Teaching Assistant in the Electrical and Computer Engineering Department for CPR E 288 Embedded Systems: Introduction.
+Hi! I am a Software Engineering student at Iowa State University. I am in my third year and expect to graduate in May 2020. I am currently in my third semester as a Teaching Assistant in the Electrical and Computer Engineering Department for CPR E 288 Embedded Systems: Introduction.
 
 A selection of courses I have taken include: data structures, digital logic, software construction, user interfaces, databases, and computer organization. A full list with course codes can be found [here](/course-list/).
 
