@@ -1,14 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sam Stifter</title>
     <link>https://samstifter.com/projects/</link>
     <description>Recent content in Projects on Sam Stifter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Apr 2017 10:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 09:13:48 -0500</lastBuildDate>
     
 	<atom:link href="https://samstifter.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RatePoint</title>
+      <link>https://samstifter.com/projects/ratepoint/</link>
+      <pubDate>Mon, 10 Dec 2018 09:13:48 -0500</pubDate>
+      
+      <guid>https://samstifter.com/projects/ratepoint/</guid>
+      <description>In this project, our goal was to create a point of interest rating system. Users would be able to add POIs, rate POIs, create lists of POIs and there would be a basic exploration mechanism. We used Model View Controller design pattern in this project separate the data layers from the transport layers from the views. We also utilized a client-server approach where the frontend website got its data from a backend database.</description>
+    </item>
+    
+    <item>
+      <title>HelpTrain</title>
+      <link>https://samstifter.com/projects/helptrain/</link>
+      <pubDate>Mon, 22 Oct 2018 08:00:00 -0500</pubDate>
+      
+      <guid>https://samstifter.com/projects/helptrain/</guid>
+      <description>This project was designed to be a tool for TAs to help manage a help queue for when students have questions during office hours or lab sections. In this project, we used a backend server to manage the lists and a frontend view to just display the data. The backend server was written in Express (JavaScript). The frontend was written in React. This was a project for HackISU, so the first iteration was a little rough around the edges, but it got smoothed out a bit later.</description>
+    </item>
     
     <item>
       <title>Punch Clock</title>
@@ -16,9 +34,7 @@
       <pubDate>Thu, 06 Apr 2017 10:00:00 -0500</pubDate>
       
       <guid>https://samstifter.com/projects/punch-clock/</guid>
-      <description>Project Repository
-Overview Our project was an application designed for users who want a way to more easily keep track of how much time they work on their computer. The program is a timer that can either be manually turned on and off or it can be set up to automatically detect when a selected program is opened and keep track of time until it is closed.
-Tools Used Software needed to make this work:</description>
+      <description>Our project was an application designed for users who want a way to more easily keep track of how much time they work on their computer. The program is a timer that can either be manually turned on and off or it can be set up to automatically detect when a selected program is opened and keep track of time until it is closed. The overall component diagram of the project is included below.</description>
     </item>
     
   </channel>

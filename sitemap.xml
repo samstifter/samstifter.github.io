@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samstifter.com/</loc>
-    <lastmod>2019-10-01T10:02:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samstifter.com/work-experience/</loc>
-    <lastmod>2019-10-01T10:02:56-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://samstifter.com/projects/</loc>
-    <lastmod>2017-04-06T10:00:00-05:00</lastmod>
+    <lastmod>2018-12-10T09:13:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/projects/ratepoint/</loc>
+    <lastmod>2018-12-10T09:13:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/</loc>
+    <lastmod>2018-12-10T09:13:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samstifter.com/projects/helptrain/</loc>
+    <lastmod>2018-10-22T08:00:00-05:00</lastmod>
   </url>
   
   <url>
